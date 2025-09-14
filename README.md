@@ -1,5 +1,5 @@
 
-## 🚀 About Me
+## 🤗 All About Me!
 
 Hi! I'm Toni Gbolahan, a Data Science undergraduate at the University of Texas at Dallas with a focus on **Cybersecurity**. I have experience in customer-facing roles and team leadership, which has strengthened my communication and time management skills.
 
@@ -9,7 +9,7 @@ I’m passionate about building functional, user-friendly software and have hand
 
 ## 💻 Projects
 
-### 📌 1. SimpleBankingSystem (Python)
+### 🌟 1. SimpleBankingSystem (Python)
 
 A console-based banking system that allows users to:
 - Create new accounts with unique account numbers
@@ -27,7 +27,7 @@ A console-based banking system that allows users to:
 
 ---
 
-### 📌 2. Text-Based Adventure Game (Python)
+###  🌟 2. Text-Based Adventure Game (Python)
 
 An interactive, text-based decision game featuring over 30 binary choices that:
 - Respond to user input to create branching storylines
@@ -55,7 +55,7 @@ An interactive, text-based decision game featuring over 30 binary choices that:
 
 ---
 
-## 📬 Contact Me
+## 🤳🏾 Contact Me
 
 I’m always open to internships, collaborations, and learning opportunities!
 
