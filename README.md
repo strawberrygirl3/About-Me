@@ -60,7 +60,6 @@ An interactive, text-based decision game featuring over 30 binary choices that:
 I’m always open to internships, collaborations, and learning opportunities!
 
 📧 **Email:** Oluwatoni.gbolahan@utdallas.edu  
-📱 **Phone:** (972)-658-8786  
 📍 **Location:** Dallas, TX  
 🔗 **LinkedIn:** www.linkedin.com/in/toni-gbolahan-6595b22ab
 ---
